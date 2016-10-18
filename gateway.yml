@@ -27,4 +27,4 @@ zuul:
       sensitive-headers:
 
 server:
-  port: 4000
+  port: 10000
